@@ -1,0 +1,14 @@
+first color = #30b0b1
+second color = #cae443
+third color = #c3c8cc
+fourth color = #85e0e1
+button color = #bfdf32
+
+   background-color: #4abebd;
+    width: 20em;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 0px 0px 10px 0px;
+    padding: 30px;
+    margin-top: -15px;
+    margin-left: 15px;
+    position:relative; left: 275px;px; top: -218px;

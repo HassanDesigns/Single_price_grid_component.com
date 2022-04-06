@@ -1,0 +1,4 @@
+First colour = #e6eff6
+second colour = #2bb3b1
+third colour = #4abebd
+    position:relative; left: 275px;px; top: -218px;

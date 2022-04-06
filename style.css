@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Send+Flowers&display=swap');
+
+*{
+    font-family: 'Karla', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e6eff6;
+}
+
+
+.first-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #30b0b1;
+    margin-left: 1.1em;
+    margin-bottom: 1.3em;
+    margin-top: 1.1em;
+}
+
+.second-title {
+    color: #cae443;
+    margin-left: 1.1em;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.main-p {
+    color: #A2A5A8;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 1.1em;
+    margin-bottom: 1.7em;
+}
+
+.card {
+    background-color: #fff;
+    width: 40em;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 10px 10px 0px 0px;
+    padding: 25px;
+    margin: 15px;
+    position:relative; left: 385px;px; top:2px
+}
+
+.card-one {
+    background-color:#2bb3b1;
+    width: 20em;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 0px 0px 0px 10px;
+    padding: 30px;
+    margin-top: -15px;
+    margin-left: 15px;
+    position:relative; left: 385px;px; top:2px
+    
+}
+
+.price {
+    margin-top: 1.5em;
+}
+
+.number {
+    font-size: 36px;
+    color: white;
+    font-weight: 600;
+}
+
+.type {
+    color: #85e0e1;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 1.1em;
+}
+
+.main-title {
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+
+}
+
+.info {
+    color: rgb(231, 230, 230);
+    font-size: 14px;
+    margin-top: 0.56em;
+}
+
+.button {
+    text-decoration: none;
+    color: #fff;
+    background-color: #bfdf32;
+    font-size: 1.1em;
+    font-weight: 700;
+    display: inline-block;
+    padding: 0.9375em 5em;
+    border-radius: 7px;
+    transition: 0.7s ease;
+    margin-top: 1.2em;
+    position: relative; left: 9px;
+    transition: 0.7s ease;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 20%);
+}
+
+.button:hover {
+    transform: scale(1.1);
+    background-color: #4aca3e;
+
+}
+
+.card-two {
+    background-color:#33bfbd;
+    width: 20em;
+    box-shadow: 0 21px 25px rgba(1 1 1 / 15%);
+    border-radius: 0px 0px 10px 0px;
+    padding: 30px;
+    margin-top: -20px;
+    margin-left: 15px;
+    position:relative; left: 705px; top: -229px;
+
+}
+.title {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 1.2em;
+    margin-top: 1.2em;
+    padding-right: 1.1em;
+}
+
+.info-two {
+    color: white;
+    font-size: 12px;
+    margin-bottom: 1.85em;
+    font-weight: 600;
+}
+
+.copyrights {
+    color: #093b3b;
+    font-size: 20px;
+    text-align: center;
+    position:relative; left: 30px; top: -190px;
+}
